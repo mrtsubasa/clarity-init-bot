@@ -9,7 +9,7 @@
 
 **Une infrastructure de bot Discord robuste, modulaire et intelligente, déployée en un clin d'œil grâce à InitBot.**
 
-[Documentation](https://docs.clarity.bot) • [Support](https://discord.gg/clarity) • [Rapport de Bug](https://github.com/mrtsubasa/Clarity-V2/issues)
+ • [Support](https://discord.gg/clarity-studio) 
 
 </div>
 
